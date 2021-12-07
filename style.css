@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 1rem;
+    box-sizing: border-box;
+    height: 100vh;
+    background-color: lightblue;
+    color:black;
+  }
+h1{
+    margin: 4rem;
+}
+input{
+    width: 40%;
+    height: 2rem;
+    padding: 1rem 10px;
+    font-size: large;
+    text-align: center;
+    border-radius: 2rem;
+}
+button{
+    display: block;
+    margin: 3rem auto;
+    width: 15%;
+    height: 3rem;
+    border-radius: 2rem;
+    font-size: 1rem;
+    font-weight: bold;
+}
+div {
+    /* border: 5px solid black; */
+    text-align: center;
+    height: 100%;
+    /* font-size: rem; */
+  }
+  
+p {
+    padding: 2rem;
+    text-align: center;
+    font-size: x-large;
+    font-weight:bolder;
+
+  }
+  
